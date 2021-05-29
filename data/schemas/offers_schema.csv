@@ -1,0 +1,3 @@
+0,1,2,3
+lead_uuid,offer_id,apr,lender_id
+string,int64,double,int64

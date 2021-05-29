@@ -1,0 +1,3 @@
+0,1,2,3,4
+lead_uuid,requested,loan_purpose,credit,annual_income
+string,double,string,string,double
